@@ -1,0 +1,45 @@
+.m1 {
+    text-align: center;
+    width: 150px;
+    border: inset;
+    margin-left: 10px;
+}
+
+.m2 {
+    text-align: center;
+    width: 150px;
+    border: inset;
+    margin-left: 10px;
+}
+
+.m3 {
+    text-align: center;
+    width: 150px;
+    border: inset;
+    margin-left: 10px;
+}
+
+
+.top {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+img.im3 {
+    width: 150px;
+    height: 186px;
+}
+
+p.main {
+    text-align: center;
+    color: purple;
+}
+
+p {
+    display: flex;
+}
